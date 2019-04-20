@@ -1,1 +1,1 @@
-# MachineLearningCoursera8
+# Coursera_Capstone
